@@ -14,9 +14,9 @@ def main(a,b,c):
         w=a
 
     if b>w:
-        W=b 
+        w=b 
 
     if c>w:
         w=c
-    return W
-print(main(1, 5, 4))
+    return w
+print(main(123, -12356, 258))
